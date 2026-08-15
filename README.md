@@ -1,6 +1,7 @@
 ## 📊 Sales & Marketing Dashboard (Excel + Power BI)
 
 This project demonstrates end‑to‑end **data cleaning in Excel** and **interactive visualization in Power BI**.
+I took a messy dataset of almost 18000 rows which had duplicate values, missing values and null values.
 
 ### 🔧 Data Preparation
 - Cleaned raw sales export (`Sales_Export_CLEANED.xlsx`).
@@ -21,4 +22,5 @@ This project demonstrates end‑to‑end **data cleaning in Excel** and **intera
 - Provides actionable insights into **channels, categories, and seasonal trends**  
 
 ### 📷 Dashboard Screenshot
-![Dashboard Screenshot](dashboard.png)
+<img width="1301" height="725" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/191557c2-0cc6-45f3-8bbb-df93dbe71d79" />
+

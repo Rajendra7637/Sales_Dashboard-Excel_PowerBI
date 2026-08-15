@@ -4,7 +4,7 @@ This project demonstrates end‑to‑end **data cleaning in Excel** and **intera
 I took a messy dataset of almost 18000 rows which had duplicate values, missing values and null values.
 
 ### 🔧 Data Preparation
-- Cleaned raw sales export (`Sales_Export_CLEANED.xlsx`).
+- Cleaned raw sales export (`Sales_Cleaned_DATA.xlsx`).
 - Removed **duplicate records** and handled **missing values**  
 - Standardized inconsistent formats (dates, product names, city names, etc.)  
 - Ensured accuracy for revenue calculations across multiple channels  
